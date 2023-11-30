@@ -15,6 +15,9 @@ This Python script collects and analyzes shooting data for a football team and i
 
 The script iterates over specified seasons, constructs URLs for match logs on FBref, and retrieves shooting data for the football team and its opponents. The data is processed, including renaming columns and merging based on common identifiers.
 
+This is where you can find the team_id in fbref:
+![Screenshot 2023-11-29 at 9 13 26 PM](https://github.com/mhassan2048/RollingXG/assets/47099133/32b83eaa-9881-446d-8a2e-cd538e922291)
+
 ## Data Analysis
 
 ### Rolling Averages
