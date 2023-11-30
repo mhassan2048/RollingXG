@@ -47,3 +47,6 @@ The resulting plot is saved as an image file in the 'Output' directory with a fi
 ```python
 plt.savefig('Output/' + team + '-RollingXg.png', bbox_inches='tight')
 ```
+
+## Runtime
+This has a runtime of about a minute for five seasons. 
