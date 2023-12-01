@@ -1,4 +1,4 @@
-Rolling avg. for npxG and npxGA
+# Rolling avg. for npxG and npxGA
 
 ## Introduction
 
