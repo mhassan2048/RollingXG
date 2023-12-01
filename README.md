@@ -1,4 +1,4 @@
-# 19-game rolling avg. for npxG and npxGA
+Rolling avg. for npxG and npxGA
 
 ## Introduction
 
