@@ -1,4 +1,4 @@
-# 19-game rolling avg. for npxG and npxGA
+# Rolling avg. for npxG and npxGA
 
 ## Introduction
 
@@ -50,3 +50,6 @@ plt.savefig('Output/' + team + '-RollingXg.png', bbox_inches='tight')
 
 ## Runtime
 This has a runtime of about a minute for five seasons. 
+
+## Player edition
+For the player edition, the rolling avg is for 10 games. 
